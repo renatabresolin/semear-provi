@@ -42,7 +42,7 @@ Consiste em uma aplicação chamada SEMEAR, utilizada parta transmitir e gerar c
 
 > https://semear-provi.herokuapp.com/
 
-## Equipe 7 - Flaming Flamingos :octocat:
+## Equipe 7 - Flaming Flamingos 🦩🔥
 
 - Jennifer Dennis
 - Kelly Diniz
