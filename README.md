@@ -1,4 +1,4 @@
-<h1 align="center"> SEMEAR </h1>
+<h1 align="center"> SEMEAR 🌱🌻 </h1>
 <h2 align="center"> REST API construída para o desafio proposto pelo hackaton da Provi - ProviHack Woman. 💪 </h2>
 
 ## Sobre o Projeto 👩‍💻
